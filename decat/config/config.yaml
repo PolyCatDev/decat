@@ -1,0 +1,17 @@
+pkgs:
+    flatpak:
+        - org.mozilla.Thunderbird
+    homebrew:
+        - lsd
+        - dust
+        - fastfetch
+        - pipx
+        - python@3.10
+        - oprnjdk
+
+test:
+    banana:
+        - 1
+    yay:
+        - 3
+        - 4

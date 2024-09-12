@@ -1,0 +1,15 @@
+pkgs:
+  flatpak:
+  - org.mozilla.Thunderbird
+  homebrew:
+  - lsd
+  - dust
+  - fastfetch
+  - pipx
+  - python@3.10
+  - test
+test:
+  Test1:
+  - banan
+  test2:
+  - orange
